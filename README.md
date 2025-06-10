@@ -1,4 +1,4 @@
-# CLoud-Computing
+# Cloud-Computing
 IS402.P21 - Điện toán đám mây 
 
 ## Nội dung seminar
